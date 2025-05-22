@@ -28,5 +28,11 @@
     "label": "Transition speed of the sidebar",
     "type": "string",
     "defaultValue": "120ms"
+  },
+  {
+    "property": "theme.sidebar_expand_on_hover.tab_min_width",
+    "label": "Minimum width of tabs when collapsed",
+    "type": "string",
+    "defaultValue": "40px"
   }
 ]
